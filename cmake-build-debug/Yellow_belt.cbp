@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Yellow_belt"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_6_demography">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_6_demography.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_6_demography"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_6_demography/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_6_demography.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_6_demography/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_4_del_repeats">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_4_del_repeats.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_4_del_repeats"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_4_del_repeats/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_4_del_repeats.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_4_del_repeats/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_3_blocks">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_3_blocks.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_3_blocks"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_3_blocks/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_3_blocks.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_3_blocks/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_6_solve">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_6_solve.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_6_solve"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_6_solve/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_6_solve.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_6_solve/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_1_inheritance">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_1_inheritance.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_1_inheritance"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_1_inheritance/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_1_inheritance.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_1_inheritance/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_1_check">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_1_check.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_1_check"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_1_check/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_1_check.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_1_check/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_6_sqr">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_6_sqr.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_6_sqr"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_6_sqr/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_6_sqr.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_6_sqr/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_2_avgTemp">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_2_avgTemp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_2_avgTemp"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_2_avgTemp/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_2_avgTemp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_2_avgTemp/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_3_SplitIntoWords">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_3_SplitIntoWords.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_3_SplitIntoWords"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_3_SplitIntoWords/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_3_SplitIntoWords.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_3_SplitIntoWords/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_7_link">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_7_link.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_7_link"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_7_link/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_7_link.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_7_link/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_4_regions_base">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_4_regions_base.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_4_regions_base"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_4_regions_base/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_4_regions_base.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_4_regions_base/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_5_teamTasks">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_5_teamTasks.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_5_teamTasks"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_task_5_teamTasks/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_task_5_teamTasks.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_task_5_teamTasks/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_10_2_groups">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_10_2_groups.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_10_2_groups"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_10_2_groups/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_10_2_groups.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_10_2_groups/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_template_code">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_template_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_template_code"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_1_template_code/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_1_template_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_1_template_code/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_1_decomposition">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_1_decomposition.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_1_decomposition"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_1_decomposition/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_1_decomposition.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_1_decomposition/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_2_test_for_Get">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_2_test_for_Get.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_2_test_for_Get"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_2_test_for_Get/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_2_test_for_Get.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_2_test_for_Get/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_3_tests_person">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_3_tests_person.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_3_tests_person"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_3_tests_person/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_3_tests_person.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_3_tests_person/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_4_test_rational">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_4_test_rational.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_4_test_rational"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_4_test_rational/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_4_test_rational.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_4_test_rational/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_5_permutations">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_5_permutations.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_5_permutations"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_5_permutations/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_5_permutations.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_5_permutations/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_5_test_isPalindrom">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_5_test_isPalindrom.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_5_test_isPalindrom"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_task_5_test_isPalindrom/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_task_5_test_isPalindrom.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_task_5_test_isPalindrom/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_unit_test_framework">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_unit_test_framework.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_unit_test_framework"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_2_unit_test_framework/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_2_unit_test_framework.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_2_unit_test_framework/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_parser">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_parser.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_parser"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_parser/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_parser.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_parser/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_8_findnearest">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_8_findnearest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_8_findnearest"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_8_findnearest/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_8_findnearest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_8_findnearest/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_3_task_1_sum_reverse_sort">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_3_task_1_sum_reverse_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_3_task_1_sum_reverse_sort"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_3_task_1_sum_reverse_sort/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_3_task_1_sum_reverse_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_3_task_1_sum_reverse_sort/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_3_task_2_phone_number">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_3_task_2_phone_number.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_3_task_2_phone_number"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_3_task_2_phone_number/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_3_task_2_phone_number.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_3_task_2_phone_number/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_3_task_4_dec_2">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_3_task_4_dec_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_3_task_4_dec_2"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_3_task_4_dec_2/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_3_task_4_dec_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_3_task_4_dec_2/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_1_parts_of_vector">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_1_parts_of_vector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_1_parts_of_vector"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_1_parts_of_vector/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_1_parts_of_vector.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_1_parts_of_vector/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_2_find_greater">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_2_find_greater.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_2_find_greater"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_2_find_greater/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_2_find_greater.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_2_find_greater/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_7.1_sort">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_7.1_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_7.1_sort"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_7.1_sort/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_7.1_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_7.1_sort/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_7.2_sort">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_7.2_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_7.2_sort"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_7.2_sort/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_7.2_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_7.2_sort/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_9_names_surnames_4">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_9_names_surnames_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_9_names_surnames_4"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_9_names_surnames_4/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_9_names_surnames_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_9_names_surnames_4/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_10_1_groups">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_10_1_groups.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_10_1_groups"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_10_1_groups/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_10_1_groups.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_10_1_groups/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_5_check_refactor">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_5_check_refactor.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_5_check_refactor"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_5_check_refactor/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_5_check_refactor.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_5_check_refactor/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_11_1_arithm_exp">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_11_1_arithm_exp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_11_1_arithm_exp"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_11_1_arithm_exp/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_11_1_arithm_exp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_11_1_arithm_exp/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_11_2_arithm_exp">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_11_2_arithm_exp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_11_2_arithm_exp"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_4_task_11_2_arithm_exp/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_4_task_11_2_arithm_exp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_4_task_11_2_arithm_exp/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_2_notifier">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_2_notifier.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_2_notifier"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_2_notifier/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_2_notifier.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_2_notifier/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_3_figures">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_3_figures.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_3_figures"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_3_figures/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_3_figures.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_3_figures/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_4_refactor">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_4_refactor.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_4_refactor"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_5_task_4_refactor/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_5_task_4_refactor.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_5_task_4_refactor/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_6_final_task">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_6_final_task.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_6_final_task"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_6_final_task/fast">
+				<Option output="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Week_6_final_task.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_6_final_task/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Work/Projects/coursera/Yellow_belt/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_1/task_1_check/matrix.cpp">
+			<Option target="Week_1_task_1_check"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_1/task_2_avgTemp/avgTemp.cpp">
+			<Option target="Week_1_task_2_avgTemp"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_1/task_3_blocks/blocks.cpp">
+			<Option target="Week_1_task_3_blocks"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_1/task_4_regions_base/main.cpp">
+			<Option target="Week_1_task_4_regions_base"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_1/task_5_teamTasks/teamTasks.cpp">
+			<Option target="Week_1_task_5_teamTasks"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_1/task_6_sqr/main.cpp">
+			<Option target="Week_1_task_6_sqr"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_1/task_7_link/main.cpp">
+			<Option target="Week_1_task_7_link"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_1/template_code/main.cpp">
+			<Option target="Week_1_template_code"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_2/task_1_decomposition/correct_solve.cpp">
+			<Option target="Week_2_task_1_decomposition"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_2/task_1_decomposition/main.cpp">
+			<Option target="Week_2_task_1_decomposition"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_2/task_2_test_for_Get/test_for_get.cpp">
+			<Option target="Week_2_task_2_test_for_Get"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_2/task_3_tests_person/test_person.cpp">
+			<Option target="Week_2_task_3_tests_person"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_2/task_4_test_rational/test_rational.cpp">
+			<Option target="Week_2_task_4_test_rational"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_2/task_5_test_isPalindrom/test_palindrome.cpp">
+			<Option target="Week_2_task_5_test_isPalindrom"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_2/unit_test_framework/test_framework.cpp">
+			<Option target="Week_2_unit_test_framework"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_1_sum_reverse_sort/main.cpp">
+			<Option target="Week_3_task_1_sum_reverse_sort"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_1_sum_reverse_sort/sum_reverse_sort.cpp">
+			<Option target="Week_3_task_1_sum_reverse_sort"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_1_sum_reverse_sort/sum_reverse_sort.h">
+			<Option target="Week_3_task_1_sum_reverse_sort"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_1_sum_reverse_sort/tests.cpp">
+			<Option target="Week_3_task_1_sum_reverse_sort"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_1_sum_reverse_sort/tests.h">
+			<Option target="Week_3_task_1_sum_reverse_sort"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_2_phone_number/main.cpp">
+			<Option target="Week_3_task_2_phone_number"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_2_phone_number/phone_number.cpp">
+			<Option target="Week_3_task_2_phone_number"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_2_phone_number/phone_number.h">
+			<Option target="Week_3_task_2_phone_number"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_2_phone_number/tests.cpp">
+			<Option target="Week_3_task_2_phone_number"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_2_phone_number/tests.h">
+			<Option target="Week_3_task_2_phone_number"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_4_dec_2/bus_manager.cpp">
+			<Option target="Week_3_task_4_dec_2"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_4_dec_2/bus_manager.h">
+			<Option target="Week_3_task_4_dec_2"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_4_dec_2/main.cpp">
+			<Option target="Week_3_task_4_dec_2"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_4_dec_2/query.cpp">
+			<Option target="Week_3_task_4_dec_2"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_4_dec_2/query.h">
+			<Option target="Week_3_task_4_dec_2"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_4_dec_2/responses.cpp">
+			<Option target="Week_3_task_4_dec_2"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_3/task_4_dec_2/responses.h">
+			<Option target="Week_3_task_4_dec_2"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_10_1_groups/main.cpp">
+			<Option target="Week_4_task_10_1_groups"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_10_2_groups/main.cpp">
+			<Option target="Week_4_task_10_2_groups"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_11_1_arithm_exp/main.cpp">
+			<Option target="Week_4_task_11_1_arithm_exp"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_11_2_arithm_exp/main.cpp">
+			<Option target="Week_4_task_11_2_arithm_exp"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_1_parts_of_vector/main.cpp">
+			<Option target="Week_4_task_1_parts_of_vector"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_1_parts_of_vector/tests.cpp">
+			<Option target="Week_4_task_1_parts_of_vector"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_1_parts_of_vector/tests.h">
+			<Option target="Week_4_task_1_parts_of_vector"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_2_find_greater/main.cpp">
+			<Option target="Week_4_task_2_find_greater"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_3_SplitIntoWords/main.cpp">
+			<Option target="Week_4_task_3_SplitIntoWords"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_4_del_repeats/main.cpp">
+			<Option target="Week_4_task_4_del_repeats"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_5_permutations/main.cpp">
+			<Option target="Week_4_task_5_permutations"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_6_demography/main.cpp">
+			<Option target="Week_4_task_6_demography"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_6_demography/person.h">
+			<Option target="Week_4_task_6_demography"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_6_demography/stat.cpp">
+			<Option target="Week_4_task_6_demography"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_6_demography/stat.h">
+			<Option target="Week_4_task_6_demography"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_7.1_sort/main.cpp">
+			<Option target="Week_4_task_7.1_sort"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_7.2_sort/main.cpp">
+			<Option target="Week_4_task_7.2_sort"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_8_findnearest/main.cpp">
+			<Option target="Week_4_task_8_findnearest"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_4/task_9_names_surnames_4/main.cpp">
+			<Option target="Week_4_task_9_names_surnames_4"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/parser/parser.cpp">
+			<Option target="Week_5_parser"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_1_inheritance/main.cpp">
+			<Option target="Week_5_task_1_inheritance"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_2_notifier/main.cpp">
+			<Option target="Week_5_task_2_notifier"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_2_notifier/notifier.cpp">
+			<Option target="Week_5_task_2_notifier"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_3_figures/main.cpp">
+			<Option target="Week_5_task_3_figures"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_4_refactor/refactor.cpp">
+			<Option target="Week_5_task_4_refactor"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_5_check_refactor/Action.cpp">
+			<Option target="Week_5_task_5_check_refactor"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_5_check_refactor/Action.h">
+			<Option target="Week_5_task_5_check_refactor"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_5_check_refactor/Person.cpp">
+			<Option target="Week_5_task_5_check_refactor"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_5_check_refactor/Person.h">
+			<Option target="Week_5_task_5_check_refactor"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_5/task_5_check_refactor/main.cpp">
+			<Option target="Week_5_task_5_check_refactor"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/condition_parser.cpp">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/condition_parser.h">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/condition_parser_test.cpp">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/database.cpp">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/database.h">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/date.cpp">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/date.h">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/main.cpp">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/node.cpp">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/node.h">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/operations.h">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/test_runner.h">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/tests.cpp">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/token.cpp">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/final_task/token.h">
+			<Option target="Week_6_final_task"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/condition_parser.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/condition_parser.h">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/condition_parser_test.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/database.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/database.h">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/database_test.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/date.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/date.h">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/date_test.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/event_set.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/event_set.h">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/main.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/node.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/node.h">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/node_test.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/token.cpp">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/Week_6/solve/token.h">
+			<Option target="Week_6_solve"/>
+		</Unit>
+		<Unit filename="D:/Work/Projects/coursera/Yellow_belt/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

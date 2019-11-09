@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Yellow_belt" targetName="Week_1_task_1_check" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_11_2_arithm_exp" />
+      <config projectName="Yellow_belt" targetName="Week_5_parser" />
+      <config projectName="Yellow_belt" targetName="Week_1_task_6_sqr" />
+      <config projectName="Yellow_belt" targetName="Week_1_task_4_regions_base" />
+      <config projectName="Yellow_belt" targetName="Week_6_final_task" />
+      <config projectName="Yellow_belt" targetName="Week_1_task_7_link" />
+      <config projectName="Yellow_belt" targetName="Week_3_task_4_dec_2" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_10_2_groups" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_4_del_repeats" />
+      <config projectName="Yellow_belt" targetName="Week_2_task_5_test_isPalindrom" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_11_1_arithm_exp" />
+      <config projectName="Yellow_belt" targetName="Week_6_solve" />
+      <config projectName="Yellow_belt" targetName="Week_2_task_3_tests_person" />
+      <config projectName="Yellow_belt" targetName="Week_3_task_1_sum_reverse_sort" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_10_1_groups" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_3_SplitIntoWords" />
+      <config projectName="Yellow_belt" targetName="Week_1_template_code" />
+      <config projectName="Yellow_belt" targetName="Week_5_task_2_notifier" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_2_find_greater" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_9_names_surnames_4" />
+      <config projectName="Yellow_belt" targetName="Week_1_task_3_blocks" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_5_permutations" />
+      <config projectName="Yellow_belt" targetName="Week_5_task_5_check_refactor" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_7.2_sort" />
+      <config projectName="Yellow_belt" targetName="Week_3_task_2_phone_number" />
+      <config projectName="Yellow_belt" targetName="Week_2_task_2_test_for_Get" />
+      <config projectName="Yellow_belt" targetName="Week_2_task_4_test_rational" />
+      <config projectName="Yellow_belt" targetName="Week_5_task_3_figures" />
+      <config projectName="Yellow_belt" targetName="Week_2_unit_test_framework" />
+      <config projectName="Yellow_belt" targetName="Week_5_task_1_inheritance" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_1_parts_of_vector" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_8_findnearest" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_7.1_sort" />
+      <config projectName="Yellow_belt" targetName="Week_1_task_5_teamTasks" />
+      <config projectName="Yellow_belt" targetName="Week_5_task_4_refactor" />
+      <config projectName="Yellow_belt" targetName="Week_1_task_2_avgTemp" />
+      <config projectName="Yellow_belt" targetName="Week_2_task_1_decomposition" />
+      <config projectName="Yellow_belt" targetName="Week_4_task_6_demography" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8da72044-f059-4a5d-a1b7-54f73f77f791" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1292">
+              <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_5/task_4_refactor/refactor.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_2/task_4_test_rational/test_rational.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3534">
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week_6/final_task/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>−</find>
+      <find>∗</find>
+      <find>main</find>
+      <find>cout</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>-</replace>
+      <replace>*</replace>
+      <replace>os</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Week_3/task_3_rectangle_h/rectangle.h" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/query.h" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/query.cpp" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/responces.cpp" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/responces.h" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/bus_manager.cpp" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/responses.h" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/responses.cpp" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_3/task_4_dec_2/bus_manager.h" />
+        <option value="$PROJECT_DIR$/Week_4/task_1_parts_of_vector/tests.h" />
+        <option value="$PROJECT_DIR$/Week_4/task_1_parts_of_vector/tests.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_1_parts_of_vector/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_2_find_greater/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_3_SplitIntoWords/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_4_del_repeats/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_5_permutations/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_6_demography/person.h" />
+        <option value="$PROJECT_DIR$/Week_4/task_6_demography/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_6_demography/stat.h" />
+        <option value="$PROJECT_DIR$/Week_4/task_6_demography/stat.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_7.1_sort/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_7.2_sort/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_8_findnearest/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_9_names_surnames_4/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_10_2_groups/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_10_1_groups/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_11_1_arithm_exp/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_4/task_11_2_arithm_exp/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_5/task_1_inheritance/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_5/parser/parser.cpp" />
+        <option value="$PROJECT_DIR$/Week_5/task_2_notifier/notifier.cpp" />
+        <option value="$PROJECT_DIR$/Week_5/task_2_notifier/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_5/task_3_figures/input.txt" />
+        <option value="$PROJECT_DIR$/Week_5/task_3_figures/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/main..cpp" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/test_runner.h" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/condition_parser.cpp" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/date.h" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/operations.h" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/condition_parser.h" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/date.cpp" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/tests.cpp" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/main.cpp" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/input.txt" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/node.h" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/node.cpp" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/database.h" />
+        <option value="$PROJECT_DIR$/Week_6/final_task/database.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Week_5/task_4_refactor/refactor.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TNMzdsKhWBZNyYPJat4lxoVdki" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_2" type="462c0819:PsiDirectoryNode" />
+              <item name="task_4_test_rational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_2" type="462c0819:PsiDirectoryNode" />
+              <item name="task_5_test_isPalindrom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_5" type="462c0819:PsiDirectoryNode" />
+              <item name="task_4_refactor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Yellow_belt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Yellow_belt" type="462c0819:PsiDirectoryNode" />
+              <item name="Week_6" type="462c0819:PsiDirectoryNode" />
+              <item name="final_task" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Projects\coursera\Yellow_belt\Week_6\final_task" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Projects\coursera\Yellow_belt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_1_task_1_check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_1_task_1_check" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_1_task_1_check">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_1_task_2_avgTemp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_1_task_2_avgTemp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_1_task_2_avgTemp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_1_task_3_blocks" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_1_task_3_blocks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_1_task_3_blocks">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_1_task_4_regions_base" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_1_task_4_regions_base" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_1_task_4_regions_base">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_1_task_5_teamTasks" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_1_task_5_teamTasks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_1_task_5_teamTasks">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_1_task_6_sqr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_1_task_6_sqr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_1_task_6_sqr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_1_task_7_link" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_1_task_7_link" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_1_task_7_link">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_1_template_code" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_1_template_code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_1_template_code">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_2_task_1_decomposition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_2_task_1_decomposition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_2_task_1_decomposition">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_2_task_2_test_for_Get" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_2_task_2_test_for_Get" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_2_task_2_test_for_Get">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_2_task_3_tests_person" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_2_task_3_tests_person" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_2_task_3_tests_person">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_2_task_4_test_rational" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_2_task_4_test_rational" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_2_task_4_test_rational">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_2_task_5_test_isPalindrom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_2_task_5_test_isPalindrom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_2_task_5_test_isPalindrom">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_2_unit_test_framework" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_2_unit_test_framework" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_2_unit_test_framework">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_3_task_1_sum_reverse_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_3_task_1_sum_reverse_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_3_task_1_sum_reverse_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_3_task_2_phone_number" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_3_task_2_phone_number" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_3_task_2_phone_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_3_task_4_dec_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_3_task_4_dec_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_3_task_4_dec_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_10_1_groups" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_10_1_groups" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_10_1_groups">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_10_2_groups" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_10_2_groups" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_10_2_groups">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_11_1_arithm_exp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_11_1_arithm_exp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_11_1_arithm_exp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_11_2_arithm_exp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_11_2_arithm_exp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_11_2_arithm_exp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_1_parts_of_vector" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_1_parts_of_vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_1_parts_of_vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_2_find_greater" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_2_find_greater" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_2_find_greater">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_3_SplitIntoWords" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_3_SplitIntoWords" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_3_SplitIntoWords">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_4_del_repeats" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_4_del_repeats" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_4_del_repeats">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_5_permutations" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_5_permutations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_5_permutations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_6_demography" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_6_demography" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_6_demography">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_7.1_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_7.1_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_7.1_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_7.2_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_7.2_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_7.2_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_8_findnearest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_8_findnearest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_8_findnearest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4_task_9_names_surnames_4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_4_task_9_names_surnames_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_4_task_9_names_surnames_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_5_parser" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_5_parser" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_5_parser">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_5_task_1_inheritance" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_5_task_1_inheritance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_5_task_1_inheritance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_5_task_2_notifier" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_5_task_2_notifier" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_5_task_2_notifier">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_5_task_3_figures" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_5_task_3_figures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_5_task_3_figures">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_5_task_4_refactor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_5_task_4_refactor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_5_task_4_refactor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_5_task_5_check_refactor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_5_task_5_check_refactor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_5_task_5_check_refactor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_6_final_task" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_6_final_task" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_6_final_task">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_6_solve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Yellow_belt" TARGET_NAME="Week_6_solve" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Yellow_belt" RUN_TARGET_NAME="Week_6_solve">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.Week_1_task_1_check" />
+      <item itemvalue="CMake Application.Week_1_task_2_avgTemp" />
+      <item itemvalue="CMake Application.Week_1_task_3_blocks" />
+      <item itemvalue="CMake Application.Week_1_task_4_regions_base" />
+      <item itemvalue="CMake Application.Week_1_task_5_teamTasks" />
+      <item itemvalue="CMake Application.Week_1_task_6_sqr" />
+      <item itemvalue="CMake Application.Week_1_task_7_link" />
+      <item itemvalue="CMake Application.Week_1_template_code" />
+      <item itemvalue="CMake Application.Week_2_task_1_decomposition" />
+      <item itemvalue="CMake Application.Week_2_task_2_test_for_Get" />
+      <item itemvalue="CMake Application.Week_2_task_3_tests_person" />
+      <item itemvalue="CMake Application.Week_2_task_4_test_rational" />
+      <item itemvalue="CMake Application.Week_2_task_5_test_isPalindrom" />
+      <item itemvalue="CMake Application.Week_2_unit_test_framework" />
+      <item itemvalue="CMake Application.Week_3_task_1_sum_reverse_sort" />
+      <item itemvalue="CMake Application.Week_3_task_2_phone_number" />
+      <item itemvalue="CMake Application.Week_3_task_4_dec_2" />
+      <item itemvalue="CMake Application.Week_4_task_10_1_groups" />
+      <item itemvalue="CMake Application.Week_4_task_10_2_groups" />
+      <item itemvalue="CMake Application.Week_4_task_11_1_arithm_exp" />
+      <item itemvalue="CMake Application.Week_4_task_11_2_arithm_exp" />
+      <item itemvalue="CMake Application.Week_4_task_1_parts_of_vector" />
+      <item itemvalue="CMake Application.Week_4_task_2_find_greater" />
+      <item itemvalue="CMake Application.Week_4_task_3_SplitIntoWords" />
+      <item itemvalue="CMake Application.Week_4_task_4_del_repeats" />
+      <item itemvalue="CMake Application.Week_4_task_5_permutations" />
+      <item itemvalue="CMake Application.Week_4_task_6_demography" />
+      <item itemvalue="CMake Application.Week_4_task_7.1_sort" />
+      <item itemvalue="CMake Application.Week_4_task_7.2_sort" />
+      <item itemvalue="CMake Application.Week_4_task_8_findnearest" />
+      <item itemvalue="CMake Application.Week_4_task_9_names_surnames_4" />
+      <item itemvalue="CMake Application.Week_5_parser" />
+      <item itemvalue="CMake Application.Week_5_task_1_inheritance" />
+      <item itemvalue="CMake Application.Week_5_task_2_notifier" />
+      <item itemvalue="CMake Application.Week_5_task_3_figures" />
+      <item itemvalue="CMake Application.Week_5_task_4_refactor" />
+      <item itemvalue="CMake Application.Week_5_task_5_check_refactor" />
+      <item itemvalue="CMake Application.Week_6_final_task" />
+      <item itemvalue="CMake Application.Week_6_solve" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8da72044-f059-4a5d-a1b7-54f73f77f791" name="Default Changelist" comment="" />
+      <created>1536753961984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536753961984</updated>
+      <workItem from="1536753964389" duration="8888000" />
+      <workItem from="1536814540180" duration="11183000" />
+      <workItem from="1536846794207" duration="10326000" />
+      <workItem from="1536901330283" duration="6307000" />
+      <workItem from="1536922567410" duration="8090000" />
+      <workItem from="1537004734693" duration="15497000" />
+      <workItem from="1537188820307" duration="6916000" />
+      <workItem from="1537246243899" duration="19836000" />
+      <workItem from="1537337140144" duration="714000" />
+      <workItem from="1537341955982" duration="2500000" />
+      <workItem from="1537375322741" duration="18000" />
+      <workItem from="1537375452010" duration="7315000" />
+      <workItem from="1537424185938" duration="1474000" />
+      <workItem from="1537442372907" duration="12850000" />
+      <workItem from="1537517114142" duration="20573000" />
+      <workItem from="1537596397942" duration="24218000" />
+      <workItem from="1537630212490" duration="42000" />
+      <workItem from="1537790516682" duration="1120000" />
+      <workItem from="1558888846946" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="158041000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22751679" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Week_3/task_2_phone_number/tests.cpp</url>
+          <line>72</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Week_4/task_9_names_surnames_4/main.cpp</url>
+          <line>91</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Week_5/task_3_figures/main.cpp</url>
+          <line>110</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week_1/template_code/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_2/task_1_decomposition/correct_solve.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/MinGw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_set.h" />
+    <entry file="file://$PROJECT_DIR$/Week_4/task_8_findnearest/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_4/task_9_names_surnames_4/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <folding>
+            <element signature="e#998#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_4/task_10_2_groups/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_4/task_10_1_groups/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_4/task_11_1_arithm_exp/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="10" selection-start-line="10" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_4/task_11_2_arithm_exp/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_5/task_1_inheritance/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator.h" />
+    <entry file="file://C:/MinGw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/shared_ptr_base.h" />
+    <entry file="file://$PROJECT_DIR$/Week_5/task_2_notifier/notifier.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_5/task_2_notifier/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGw64/mingw64/x86_64-w64-mingw32/include/math.h" />
+    <entry file="file://$PROJECT_DIR$/Week_2/task_1_decomposition/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2120">
+          <caret line="111" column="14" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_5/task_3_figures/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_5/task_3_figures/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+          <folding>
+            <element signature="e#45#64#0" expanded="true" />
+            <element signature="e#143#160#1" />
+            <element signature="e#267#296#1" />
+            <element signature="e#316#349#1" />
+            <element signature="e#360#396#1" />
+            <element signature="e#1512#1564#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_5/parser/parser.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_5/task_5_check_refactor/main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/main..cpp" />
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/test_framework.cpp" />
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/test_framework.h" />
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/token.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/token.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/operations.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/MinGw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.h" />
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/test_runner.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1367">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/condition_parser.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/node.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/node.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="63" selection-start-line="63" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/tests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/condition_parser.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="111" column="33" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/condition_parser_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="53" column="74" selection-start-line="53" selection-start-column="74" selection-end-line="53" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/date.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/database.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/database.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/date.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/solve/date.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/solve/date.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/solve/event_set.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/solve/database.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/solve/database_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3931" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/solve/date_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-337" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/solve/node.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/solve/node_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-897" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_5/task_4_refactor/refactor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_2/task_4_test_rational/test_rational.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3534">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_6/final_task/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

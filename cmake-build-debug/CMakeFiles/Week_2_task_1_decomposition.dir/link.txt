@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Week_2_task_1_decomposition.dir/objects.a
+C:\Qt\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\Week_2_task_1_decomposition.dir/objects.a @CMakeFiles\Week_2_task_1_decomposition.dir\objects1.rsp
+C:\Qt\Tools\mingw730_64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Week_2_task_1_decomposition.dir/objects.a -Wl,--no-whole-archive  -o Week_2_task_1_decomposition.exe -Wl,--out-implib,libWeek_2_task_1_decomposition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Week_2_task_1_decomposition.dir\linklibs.rsp
